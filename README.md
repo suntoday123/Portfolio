@@ -1,2 +1,2 @@
-# NCS_notes
-Notes on SQL, Python, R, Linux and Hadoop, Machine Learning, and Deep Learning
+# Portfolio
+Miseung's Portfolio as a journey of Data Analyst
