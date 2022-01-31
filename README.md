@@ -44,12 +44,12 @@ Miseung's Portfolio as a journey of **World Best Data Analyst**
     
     
     
-**4. Deep Learning Study **
+**4. Deep Learning Study**
 <br>
    
-   딥러닝에 기본 개념을 공부하기 위하여 총 5명이서 스터디를 결성하였고, 파트를 분배하여 각자 맡은 부분을 공부하고
-   발표하는 형식으로 스터디를 진행하였습니다.
-   각자의 발표 자료를 요일별로 취합하여 올려두었습니다.
+    딥러닝에 기본 개념을 공부하기 위하여 총 5명이서 스터디를 결성하였고, 파트를 분배하여 각자 맡은 부분을 공부하고
+    발표하는 형식으로 스터디를 진행하였습니다.
+    각자의 발표 자료를 요일별로 취합하여 올려두었습니다.
    
 
 **5. Object Detection Portfolio**
