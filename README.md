@@ -63,5 +63,5 @@ Miseung's Portfolio as a journey of **World Best Data Analyst**
 <br>
 
     VGG16 모델을 활용하여 신발 분류 모델을 생성하였습니다.
-    각각 200장이 넘는 5종의 신발 사진을 직접 라벨링 및 전처리 작업을 하였고 shinyApp으로 연동하여
+    각각 200장이 넘는 5종의 신발 사진을 직접 라벨링 및 전처리 작업을 하였고 RshinyApp으로 연동하여
     웹 상에서도 해당 신발 분류 모델을 사용하여 Shoes info를 알 수 있게끔 구현하였습니다.
